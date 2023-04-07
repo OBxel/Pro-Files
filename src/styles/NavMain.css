@@ -1,0 +1,26 @@
+.NavMain {
+  background-color: transparent;
+  border: 1px solid rgb(57,57,57);
+  color: rgb(57, 57, 57);
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  height: 70px;
+}
+
+.NavMain .nav-list {
+  margin-left: auto;
+  display: flex;
+}
+
+.NavMain .nav-list li:not(:last-child) {
+  margin-right: 20px;
+}
+
+.logo {
+  /* border: 2px solid red; */
+  
+  font-style: italic;
+  /* color: azure; */
+  font-size: 20px
+}
