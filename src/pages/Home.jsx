@@ -6,7 +6,6 @@ const Home = (props) => {
     <div>
       <div className="homePage">
         <h1>Welcome on Pro-Files</h1>
-        <h2>Project online</h2>
         <h2>Project</h2>
         <h2>Competences</h2>
       </div>
